@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858207230164",
+    "firebase_url": "https://sliit-shuttle-cfc63.firebaseio.com",
+    "project_id": "sliit-shuttle-cfc63",
+    "storage_bucket": "sliit-shuttle-cfc63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858207230164:android:6d8f1e153b916225",
+        "android_client_info": {
+          "package_name": "com.example.jananathbanuka.sliitshuttle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858207230164-2pqd65t1ga4ttmq3ng7qrbf7512r4njb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jananathbanuka.sliitshuttle",
+            "certificate_hash": "add34a5e2e5641ec569e605b11bec453296f63f2"
+          }
+        },
+        {
+          "client_id": "858207230164-gsvoq5ckatcr04e3h9rfa3veuapjhip3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICHuB9SVeUzKF5upjNeDiHyfkae3EEsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858207230164-gsvoq5ckatcr04e3h9rfa3veuapjhip3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

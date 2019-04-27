@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SLIIT Shuttle</string>
+    <string name="description"></string>
+    <string name="itnumber">IT Number</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="whoareyou">Who are you?</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="orsignup">or Sign Up</string>
+    <string name="student">STUDENT</string>
+    <string name="driver">DRIVER</string>
+    <string name="logout">LOG OUT</string>
+    <string name="title_activity_student_profile">student_profile</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_drivers_map">Map</string>
+    <string name="back">Back</string>
+    <string name="title_activity_students_map">Map</string>
+    <string name="pickme">Pick Me</string>
+</resources>
